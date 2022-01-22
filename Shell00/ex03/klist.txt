@@ -1,0 +1,6 @@
+Credentials cache: API:FF94499A-08EB-4A78-9EF4-B301EAEE3311
+        Principal: tterribi@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct  1 09:27:12 2021  Oct  1 19:27:12 2021  krbtgt/42ROMA.IT@42ROMA.IT
+Oct  1 09:27:15 2021  Oct  1 19:27:12 2021  HTTP/storage.42roma.it@42ROMA.IT
